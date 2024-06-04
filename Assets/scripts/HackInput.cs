@@ -10,6 +10,11 @@ public class HackInput : MonoBehaviour
     [SerializeField] Text resultText;
     public float delay = 5;
 
+    private void Start()
+    {
+        resultText.text = "Waiting For Input To Start Hacking";
+    }
+
     public void OnValidate()
     {
         string input = inputField.text;
