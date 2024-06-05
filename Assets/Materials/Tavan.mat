@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Tavan
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 073e75d0d3dabc440beeafbbf45b737d, type: 2}
+  m_Parent: {fileID: 2100000, guid: ebb5a45aae9cc6c48b290554cc511898, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _NORMALMAP

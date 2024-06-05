@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Shovel
+  - Dirt2
+  - Dirt1
+  - Dirt
+  - Hole
+  - Gun
   layers:
   - Default
   - TransparentFX
